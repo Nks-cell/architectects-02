@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Horizon Architecture Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 3129,
+      "bodyTextHash": "f44ca5df856a5dfd06fc9f475d5d55b50abb225b5f13ecce280c3ef7384f4451",
+      "bodyTextPrefix": "Skip to content Horizon ARCHITECTURE STUDIO Work Practice Contac",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Horizon Architecture Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 3102,
+      "bodyTextHash": "bcefac815dfd09355ca3045c5666321e7045246daf20bd41043adcf4fa284211",
+      "bodyTextPrefix": "Skip to content Horizon ARCHITECTURE STUDIO HORIZON ARCHITECTURE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
